@@ -121,7 +121,7 @@ export default {
 
 <style lang="scss">
 .navbar-container {
-    margin-top: 45px;
+    margin-top: 25px;
     display: flex;
     justify-content: center;
 /*     position: fixed; */

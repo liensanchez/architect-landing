@@ -45,7 +45,7 @@
             flex-wrap: wrap;
             background-color: #f7f8f8;
             border-radius: 50px 50px 0px 50px;
-            padding: 30px;
+            padding: 45px;
 
             .hero-top-text {
                 width: 30%;
